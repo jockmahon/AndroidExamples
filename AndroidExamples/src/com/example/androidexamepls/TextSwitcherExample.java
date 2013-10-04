@@ -54,7 +54,8 @@ public class TextSwitcherExample extends Activity
 
 		if( isFirst )
 		{
-			txtSwit.setText( "Second Text" );
+			((TextView ) txtSwit.getCurrentView() ).setText( "asdasdasd" );
+			//txtSwit.setText( "Second Text" );
 		}
 		else
 		{
