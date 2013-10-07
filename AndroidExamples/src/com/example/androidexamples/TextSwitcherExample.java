@@ -19,7 +19,6 @@ public class TextSwitcherExample extends Activity
 	Boolean isFirst = true;
 
 
-	
 	@Override
 	protected void onCreate( Bundle savedInstanceState )
 	{

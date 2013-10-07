@@ -1,4 +1,4 @@
-package com.example.androidexamepls;
+package com.example.androidexamples;
 
 import android.app.Activity;
 import android.os.Bundle;
