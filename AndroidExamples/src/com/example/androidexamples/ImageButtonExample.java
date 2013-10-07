@@ -2,7 +2,6 @@ package com.example.androidexamples;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.telephony.SmsManager;
 import android.widget.Button;
 
 public class ImageButtonExample extends Activity

@@ -12,7 +12,6 @@ public class ChronometerExample extends Activity
 	Button btnStart;
 	Button btnStop;
 
-
 	@Override
 	protected void onCreate( Bundle savedInstanceState )
 	{
